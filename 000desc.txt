@@ -1,5 +1,5 @@
 [JAPANESE]
-TITLE=Actエクストラ — DIO高速無線転送
+TITLE=Actエクストラ — DIO高速無線伝送
 DESC=子機のDI(デジタル入力)を高頻度(標準1kHz/4ポート, 12.8kHz/1ポートまで設定可)でサンプルし、親機のDO(デジタル出力)に再現します。
 URL=https://github.com/monowireless/ActEx_DIO_Trans
 [ENGLISH]
